@@ -1,23 +1,23 @@
 {
   "beta": {
-    "versionName": "0.2.1-beta",
-    "versionCode": 3,
-    "tag": "v0.2.1-beta",
+    "versionName": "0.2.2-beta",
+    "versionCode": 4,
+    "tag": "v0.2.2-beta",
     "publishedAt": "2026-10-19",
-    "notes": "- מי שהתקין גרסת בטא מקבל מעכשיו את גרסאות הבטא הבאות אוטומטית, בלי להפעיל דבר בהגדרות.\n- תמיכה בהעברת ניהול המכשיר בין גרסאות, לבדיקות.",
+    "notes": "- כשניהול המכשיר עובר בין גרסאות, גם מסך הבית עובר איתו.",
     "certSha256": "99f0dae6561aa97c143f9fee4ae7abadf006bc2f268bc23165e850e8b108c539",
     "apks": {
       "arm64-v8a": {
         "path": "/apk/beta/ShaniShvilin-arm64-v8a.apk",
-        "sha256": "804b6f4e7216abb18c4933721a70b99f08b3dd19d4f0b3781f7b80d39deeeb37",
+        "sha256": "3e1c399228e6870077a0ca50b2c3c69f1e2a0ab8bcd4ea25c619fa74c14462d1",
         "size": 24964536
       },
       "armeabi-v7a": {
         "path": "/apk/beta/ShaniShvilin-armeabi-v7a.apk",
-        "sha256": "d71307fe0da81d7edd08177a0a3b13a836b5705c47edaba1e9c3f68603fefa06",
+        "sha256": "7ece800c5028adc440cc95a86b0dfce4024560cd40458e52a9f069b5614d9e21",
         "size": 24146038
       }
     },
-    "universalUrl": "https://github.com/abaye123/shani-shvilin-releases/releases/download/v0.2.1-beta/ShaniShvilin-0.2.1-beta-universal.apk"
+    "universalUrl": "https://github.com/abaye123/shani-shvilin-releases/releases/download/v0.2.2-beta/ShaniShvilin-0.2.2-beta-universal.apk"
   }
 }
