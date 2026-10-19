@@ -1,23 +1,23 @@
 {
   "beta": {
-    "versionName": "0.2.3-beta",
-    "versionCode": 5,
-    "tag": "v0.2.3-beta",
+    "versionName": "0.2.4-beta",
+    "versionCode": 6,
+    "tag": "v0.2.4-beta",
     "publishedAt": "2026-10-19",
-    "notes": "- הודעה ברורה כשבערוץ העדכונים שנבחר עדיין לא פורסמה גרסה.",
+    "notes": "- עדכון האפליקציה ממשיך ברקע גם אחרי יציאה ממסך העדכונים, עם התראה שמראה את ההתקדמות.",
     "certSha256": "99f0dae6561aa97c143f9fee4ae7abadf006bc2f268bc23165e850e8b108c539",
     "apks": {
       "arm64-v8a": {
         "path": "/apk/beta/ShaniShvilin-arm64-v8a.apk",
-        "sha256": "5a8e37bda19ea2414afcbd07c04bd8dcad41fc5a541cbc34b6c3948719dc6228",
+        "sha256": "be8a26a3294604d15ef574161fb1b9dcf1e9c76390456e3e23a47c4e6b2f7d9f",
         "size": 24964536
       },
       "armeabi-v7a": {
         "path": "/apk/beta/ShaniShvilin-armeabi-v7a.apk",
-        "sha256": "6480a076dbbd216c002a0cb783369976bb8763da0963e59b5539ce829092f8d9",
+        "sha256": "d509be5772e90a2cd01d3e99332b587ac56887b4252588565ba52b50fbb9107e",
         "size": 24146038
       }
     },
-    "universalUrl": "https://github.com/abaye123/shani-shvilin-releases/releases/download/v0.2.3-beta/ShaniShvilin-0.2.3-beta-universal.apk"
+    "universalUrl": "https://github.com/abaye123/shani-shvilin-releases/releases/download/v0.2.4-beta/ShaniShvilin-0.2.4-beta-universal.apk"
   }
 }
