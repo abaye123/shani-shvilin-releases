@@ -1,23 +1,23 @@
 {
   "beta": {
-    "versionName": "0.2.0-beta",
-    "versionCode": 2,
-    "tag": "v0.2.0-beta",
+    "versionName": "0.2.1-beta",
+    "versionCode": 3,
+    "tag": "v0.2.1-beta",
     "publishedAt": "2026-10-19",
-    "notes": "גרסת הבטא הראשונה של שני שבילין.\n\n- מסך בית לרכב: שעון ותאריך עברי, הזמן הבא, מהירות, מזג אוויר, כפתורי ניווט ומוזיקה ופקדי מדיה. מותאם גם למסך לרוחב.\n- חנות אפליקציות מסוננת, עם עדכונים בתור ועדכונים מ-Google Play.\n- סינון פנימי ומסלולי סינון, עם סיסמת הסרה.\n- תפילת הדרך בהקלטה לכל נוסח, עם תזכורת אוטומטית אחרי 3 דקות נסיעה מעל 70 קמ\"ש.\n- זמני היום לכל מקום, עם מועדפים.\n- ייצוא וייבוא הגדרות לקובץ.\n- עדכוני האפליקציה עצמה, כולל עדכון מקובץ APK בלי אינטרנט.",
+    "notes": "- מי שהתקין גרסת בטא מקבל מעכשיו את גרסאות הבטא הבאות אוטומטית, בלי להפעיל דבר בהגדרות.\n- תמיכה בהעברת ניהול המכשיר בין גרסאות, לבדיקות.",
     "certSha256": "99f0dae6561aa97c143f9fee4ae7abadf006bc2f268bc23165e850e8b108c539",
     "apks": {
       "arm64-v8a": {
         "path": "/apk/beta/ShaniShvilin-arm64-v8a.apk",
-        "sha256": "cad06c406a43fc6143d187e0e99c7fd94e1289f22ffc79b14d32c63964be60bb",
-        "size": 24964416
+        "sha256": "804b6f4e7216abb18c4933721a70b99f08b3dd19d4f0b3781f7b80d39deeeb37",
+        "size": 24964536
       },
       "armeabi-v7a": {
         "path": "/apk/beta/ShaniShvilin-armeabi-v7a.apk",
-        "sha256": "5d7871935c567e157e42c8670c5796ca5a20ac875c4360af0dd935c815af1636",
-        "size": 24145918
+        "sha256": "d71307fe0da81d7edd08177a0a3b13a836b5705c47edaba1e9c3f68603fefa06",
+        "size": 24146038
       }
     },
-    "universalUrl": "https://github.com/abaye123/shani-shvilin-releases/releases/download/v0.2.0-beta/ShaniShvilin-0.2.0-beta-universal.apk"
+    "universalUrl": "https://github.com/abaye123/shani-shvilin-releases/releases/download/v0.2.1-beta/ShaniShvilin-0.2.1-beta-universal.apk"
   }
 }
