@@ -1,23 +1,23 @@
 {
   "beta": {
-    "versionName": "0.2.5-beta",
-    "versionCode": 7,
-    "tag": "v0.2.5-beta",
+    "versionName": "0.2.6-beta",
+    "versionCode": 8,
+    "tag": "v0.2.6-beta",
     "publishedAt": "2026-10-20",
-    "notes": "- תמיכה מלאה ברשת של נטפרי: האפליקציה סומכת על תעודות נטפרי ומתקינה אותן במכשיר. החנות, הקטלוג והעדכונים עובדים עכשיו גם ברשת של נטפרי.\n- הגבלות חדשות: \"רק רשת של נטפרי\" ו\"נקודה חמה ברשת של נטפרי\", עם אימות מוצפן של הרשת.\n- התקנה ביחידות מולטימדיה בלי מחשב ובלי ניפוי באגים אלחוטי.\n- החנות: הסבר על חיבור חשבון Google, ופרטי האפליקציות נטענים גם ברשת איטית.\n- תיקונים: גלילת תנאי השימוש, מירכוז מגירה ריקה.",
+    "notes": "- תזכורת תפילת הדרך: התזכורת לא זיהתה את מהירות הנסיעה ולכן לא הופיעה. תוקן.\n- אפליקציות עם רשימה לבנה: אתרים שמוגשים דרך רשתות הפצת תוכן (CDN) נחסמו בטעות. בין השאר, המפה באפליקציית תחנות גפ\"מ עובדת עכשיו.",
     "certSha256": "99f0dae6561aa97c143f9fee4ae7abadf006bc2f268bc23165e850e8b108c539",
     "apks": {
       "arm64-v8a": {
         "path": "/apk/beta/ShaniShvilin-arm64-v8a.apk",
-        "sha256": "8e6ad0ef26fb4d89b7586d28360d840e5e65e80a9f8fb859b1ab0df4d1c70416",
-        "size": 25048492
+        "sha256": "0a226699a63577ac71c3a5be220c882ab4f38aec1286328040012e673d492515",
+        "size": 25058608
       },
       "armeabi-v7a": {
         "path": "/apk/beta/ShaniShvilin-armeabi-v7a.apk",
-        "sha256": "49cb16c77a13e97e0f4169d748fa95fca96e54a115cbcb8b0bc967b9409426c0",
-        "size": 24229994
+        "sha256": "5f263043ff1835e11d8d3e9b28fe794a2ebc26d55c514d9bc754bbbdf8f2aaec",
+        "size": 24240110
       }
     },
-    "universalUrl": "https://github.com/abaye123/shani-shvilin-releases/releases/download/v0.2.5-beta/ShaniShvilin-0.2.5-beta-universal.apk"
+    "universalUrl": "https://github.com/abaye123/shani-shvilin-releases/releases/download/v0.2.6-beta/ShaniShvilin-0.2.6-beta-universal.apk"
   }
 }
