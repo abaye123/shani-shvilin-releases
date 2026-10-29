@@ -1,23 +1,23 @@
 {
   "beta": {
-    "versionName": "0.2.6-beta",
-    "versionCode": 8,
-    "tag": "v0.2.6-beta",
-    "publishedAt": "2026-10-20",
-    "notes": "- תזכורת תפילת הדרך: התזכורת לא זיהתה את מהירות הנסיעה ולכן לא הופיעה. תוקן.\n- אפליקציות עם רשימה לבנה: אתרים שמוגשים דרך רשתות הפצת תוכן (CDN) נחסמו בטעות. בין השאר, המפה באפליקציית תחנות גפ\"מ עובדת עכשיו.",
+    "versionName": "0.2.7-beta",
+    "versionCode": 9,
+    "tag": "v0.2.7-beta",
+    "publishedAt": "2026-10-29",
+    "notes": "- חסימת פרסומות לכל האפליקציות: שרתי הפרסומות המרכזיים (Google, פייסבוק, Unity, AppLovin, ironSource ועוד) נחסמים עכשיו בכל אפליקציה שמקבלת רשת, גם באפליקציה שאין לה מדיניות משלה.\n- Google Chat בג'ימייל: בהגדרות > הגבלות נוספות יש מתג חדש, \"אפשר Google Chat בג'ימייל\". הוא כבוי כברירת מחדל ומחייב את סיסמת ההסרה. Google Meet נשאר חסום.\n- DNS פרטי: הגדרת DNS פרטי ננעלת, ומכשיר שהוגדר בו DNS פרטי עם שם שרת מוחזר למצב אוטומטי. בלי זה המכשיר נשאר בלי אינטרנט בכלל.\n\nכמו כן נוספו האפליקציות הבאות:\n- חניתי - לחניית נכים של משרד התחבורה\n- תמלול קולי עברי - שהועלה כאן, עם חסימה על חיפוש בגוגל\n- Gravez - אפליקציה לניווט בבתי קברות\n- אפליקציית התדלוק של \"טן\" - בעז\"ה מקווה בקרוב להשלים את העלאת אפליקציות נוספות של תדלוק וטעינה לרכבים חשמליים\n- ניווט לכהנים - מסלולים שעוקפים בתי קברות\n- נוהג לימוד תאוריה - לימוד למבחן התאוריה, עם חסימת כל הפרסומות שבה\n- Google Authenticator - קודים לאימות דו-שלבי\n- Google Translate\n- Weather2day - מזג אוויר, עם חסימת הפרסומות שבה\n- מפת טיולים ישראל (Israel Hiking Map) - זמינה רק במסלול הפתוח ביותר ובאישור מפורש, בגלל תמונות שמשתמשים מעלים",
     "certSha256": "99f0dae6561aa97c143f9fee4ae7abadf006bc2f268bc23165e850e8b108c539",
     "apks": {
       "arm64-v8a": {
         "path": "/apk/beta/ShaniShvilin-arm64-v8a.apk",
-        "sha256": "0a226699a63577ac71c3a5be220c882ab4f38aec1286328040012e673d492515",
-        "size": 25058608
+        "sha256": "9a6f7b77655f69b2d17e9bb43d7bce2a4f1ad2665941403951075fec4f82367a",
+        "size": 25066036
       },
       "armeabi-v7a": {
         "path": "/apk/beta/ShaniShvilin-armeabi-v7a.apk",
-        "sha256": "5f263043ff1835e11d8d3e9b28fe794a2ebc26d55c514d9bc754bbbdf8f2aaec",
-        "size": 24240110
+        "sha256": "6f14aed57cdd65ed5ec3e8f3ad615dcf54f7b9675fa2992366dd21d262f8aced",
+        "size": 24247538
       }
     },
-    "universalUrl": "https://github.com/abaye123/shani-shvilin-releases/releases/download/v0.2.6-beta/ShaniShvilin-0.2.6-beta-universal.apk"
+    "universalUrl": "https://github.com/abaye123/shani-shvilin-releases/releases/download/v0.2.7-beta/ShaniShvilin-0.2.7-beta-universal.apk"
   }
 }
