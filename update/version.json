@@ -1,23 +1,23 @@
 {
   "beta": {
-    "versionName": "0.2.12-beta",
-    "versionCode": 14,
-    "tag": "v0.2.12-beta",
+    "versionName": "0.2.13-beta",
+    "versionCode": 15,
+    "tag": "v0.2.13-beta",
     "publishedAt": "2026-11-01",
-    "notes": "- מסלול מותאם אישית: בהגדרות > מצב סינון יש מסלול חדש, \"מותאם אישית\". בוחרים לכל אפליקציה אם היא חסומה (מוסתרת מהמכשיר), פועלת בלי רשת או פועלת עם רשת. רשת אפשר לתת רק לאפליקציות מהקטלוג, והן עוברות בסינון הפנימי לפי המדיניות שלהן. אפליקציות מערכת חיוניות, כמו המקלדת, החייגן וההודעות, לא ניתנות לחסימה. שמירה מחייבת את סיסמת ההסרה.\n- תיקון התקנה מ-Play באנדרואיד 12: התקנות מ-Play נכשלו במכשירים עם אנדרואיד 12, כולל מכשירי מולטימדיה לרכב. עכשיו הן עובדות.\n\nכמו כן:\n- פתיחת החנות מרעננת את הקטלוג ברקע, אם הרענון האחרון היה לפני יותר מרבע שעה.\n- נוספו לחנות \"גלריה ללא וידאו\" ו\"סייר קבצים ללא וידאו\", בלי גישה לרשת.",
+    "notes": "- תיקון התקנה מ-Play במכשירים עם אנדרואיד ישן: החנות קיבלה מ-Play את הגרסה של אפליקציות כמו Waze שמיועדת למכשירים חדשים, וההתקנה נכשלה, בעיקר במכשירי מולטימדיה לרכב עם אנדרואיד 12. עכשיו החנות מקבלת את הגרסה שמתאימה למכשיר. החיבור ל-Play מתעדכן לבד, בלי צורך להתחבר מחדש.",
     "certSha256": "99f0dae6561aa97c143f9fee4ae7abadf006bc2f268bc23165e850e8b108c539",
     "apks": {
       "arm64-v8a": {
         "path": "/apk/beta/ShaniShvilin-arm64-v8a.apk",
-        "sha256": "3b44419fdc5eac25af5f4e2a1eddae7618836aa5d66a8fe282bed2fa58f7e3f6",
-        "size": 25208084
+        "sha256": "ba21e711ca51b64e0a64a4a516906696dc29649a4ffaff265d4428d5a3f38e06",
+        "size": 25208088
       },
       "armeabi-v7a": {
         "path": "/apk/beta/ShaniShvilin-armeabi-v7a.apk",
-        "sha256": "9df8b342355e8ce8293883dc3ee78bee25c06c5590a5aa56afad2b08fac91519",
-        "size": 24389586
+        "sha256": "1e9e13aa49fc90f5776ec5950959b9596f77d67f54f76f8965ad66e706733feb",
+        "size": 24389590
       }
     },
-    "universalUrl": "https://github.com/abaye123/shani-shvilin-releases/releases/download/v0.2.12-beta/ShaniShvilin-0.2.12-beta-universal.apk"
+    "universalUrl": "https://github.com/abaye123/shani-shvilin-releases/releases/download/v0.2.13-beta/ShaniShvilin-0.2.13-beta-universal.apk"
   }
 }
