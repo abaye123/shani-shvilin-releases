@@ -1,23 +1,23 @@
 {
   "beta": {
-    "versionName": "0.2.13-beta",
-    "versionCode": 15,
-    "tag": "v0.2.13-beta",
-    "publishedAt": "2026-11-01",
-    "notes": "- תיקון התקנה מ-Play במכשירים עם אנדרואיד ישן: החנות קיבלה מ-Play את הגרסה של אפליקציות כמו Waze שמיועדת למכשירים חדשים, וההתקנה נכשלה, בעיקר במכשירי מולטימדיה לרכב עם אנדרואיד 12. עכשיו החנות מקבלת את הגרסה שמתאימה למכשיר. החיבור ל-Play מתעדכן לבד, בלי צורך להתחבר מחדש.",
+    "versionName": "0.2.14-beta",
+    "versionCode": 16,
+    "tag": "v0.2.14-beta",
+    "publishedAt": "2026-11-07",
+    "notes": "- התקנה בלי מחשב במכשירים בלי וילון התראות, כמו קופסאות אנדרואיד: אם ההתראה עם שדה הקוד לא מופיעה, אפשר עכשיו להקליד את קוד הצימוד בתוך שני שבילין, במסך מפוצל לצד ההגדרות.\n- תיקון פתיחת אפליקציה ממסך הבית כשהאפליקציה שינתה את המסך הראשי שלה, כמו שקרה ב-GoSurf.",
     "certSha256": "99f0dae6561aa97c143f9fee4ae7abadf006bc2f268bc23165e850e8b108c539",
     "apks": {
       "arm64-v8a": {
         "path": "/apk/beta/ShaniShvilin-arm64-v8a.apk",
-        "sha256": "ba21e711ca51b64e0a64a4a516906696dc29649a4ffaff265d4428d5a3f38e06",
-        "size": 25208088
+        "sha256": "94f8eb4b161812d683623a3517405805546e96444f1b871be87d49acee1168c2",
+        "size": 25208600
       },
       "armeabi-v7a": {
         "path": "/apk/beta/ShaniShvilin-armeabi-v7a.apk",
-        "sha256": "1e9e13aa49fc90f5776ec5950959b9596f77d67f54f76f8965ad66e706733feb",
-        "size": 24389590
+        "sha256": "3dbf837e7b2bb8b93c39282e6c532c9a7d39c791c61cf584d0fcfeeed5ccecc3",
+        "size": 24390102
       }
     },
-    "universalUrl": "https://github.com/abaye123/shani-shvilin-releases/releases/download/v0.2.13-beta/ShaniShvilin-0.2.13-beta-universal.apk"
+    "universalUrl": "https://github.com/abaye123/shani-shvilin-releases/releases/download/v0.2.14-beta/ShaniShvilin-0.2.14-beta-universal.apk"
   }
 }
