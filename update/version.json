@@ -1,23 +1,23 @@
 {
   "beta": {
-    "versionName": "0.2.14-beta",
-    "versionCode": 16,
-    "tag": "v0.2.14-beta",
-    "publishedAt": "2026-11-07",
-    "notes": "- התקנה בלי מחשב במכשירים בלי וילון התראות, כמו קופסאות אנדרואיד: אם ההתראה עם שדה הקוד לא מופיעה, אפשר עכשיו להקליד את קוד הצימוד בתוך שני שבילין, במסך מפוצל לצד ההגדרות.\n- תיקון פתיחת אפליקציה ממסך הבית כשהאפליקציה שינתה את המסך הראשי שלה, כמו שקרה ב-GoSurf.",
+    "versionName": "0.2.15-beta",
+    "versionCode": 17,
+    "tag": "v0.2.15-beta",
+    "publishedAt": "2026-11-08",
+    "notes": "- תמונות וסרטונים בצ'אט של Gmail נטענים שוב. חסימה שנועדה לאפליקציה אחת (למשל תמונות המשתמשים בגוגל מפות) כבר לא חוסמת את אותה כתובת לאפליקציות אחרות.\n- השעון במכשיר מתעדכן לבד: זמן אוטומטי מופעל, ואם הוא לא מגיע, השעה נלקחת מהשרת של שני שבילין בחיבור מאובטח. זה פותר בעיות התחברות לחשבון גוגל במולטימדיות שהשעון שלהן חוזר אחורה.\n- ההתראה הקבועה של תפילת הדרך הוסרה. התזכורת עצמה ממשיכה לעבוד כרגיל.\n- אפשר להסתיר את ההתראה \"הסינון פעיל\" מתוך \"הגבלות נוספות\".\n- הסינון נטען מהר יותר אחרי הפעלה מחדש, ובהפעלה הראשונה ההתראה מציינת שההגדרות נטענות.",
     "certSha256": "99f0dae6561aa97c143f9fee4ae7abadf006bc2f268bc23165e850e8b108c539",
     "apks": {
       "arm64-v8a": {
         "path": "/apk/beta/ShaniShvilin-arm64-v8a.apk",
-        "sha256": "94f8eb4b161812d683623a3517405805546e96444f1b871be87d49acee1168c2",
-        "size": 25208600
+        "sha256": "ee62cede397e1139adc6063c4428266d89d6550a446fd3edd8d7e177e606014c",
+        "size": 25209968
       },
       "armeabi-v7a": {
         "path": "/apk/beta/ShaniShvilin-armeabi-v7a.apk",
-        "sha256": "3dbf837e7b2bb8b93c39282e6c532c9a7d39c791c61cf584d0fcfeeed5ccecc3",
-        "size": 24390102
+        "sha256": "e884df8bb5d966eee311287f8d08a8a29ffcd1f1267ef27d6d0ecc22a693b573",
+        "size": 24391470
       }
     },
-    "universalUrl": "https://github.com/abaye123/shani-shvilin-releases/releases/download/v0.2.14-beta/ShaniShvilin-0.2.14-beta-universal.apk"
+    "universalUrl": "https://github.com/abaye123/shani-shvilin-releases/releases/download/v0.2.15-beta/ShaniShvilin-0.2.15-beta-universal.apk"
   }
 }
