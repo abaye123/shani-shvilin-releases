@@ -1,23 +1,23 @@
 {
   "beta": {
-    "versionName": "0.2.16-beta",
-    "versionCode": 18,
-    "tag": "v0.2.16-beta",
-    "publishedAt": "2026-11-10",
-    "notes": "- בהגדרות נוסף \"שליחת יומן האבחון\": שליחת היומן במייל או בכל אפליקציה אחרת, גם כשאי אפשר לשלוח דיווח.\n- כל דיווח מצרף אוטומטית את פרטי הקריסה האחרונה, אם הייתה, כדי שנוכל לתקן אותה.\n- תיקוני יציבות: האפליקציה לא קורסת כשמנהל המכשיר מועבר אליה מאפליקציה אחרת, או כשההתראה של הסינון נדחית (אנדרואיד 8 עד 11).\n- הסינון הפנימי לא מתרענן יותר שוב ושוב במכשירים שמדווחים על אותה רשת כל כמה שניות.",
+    "versionName": "0.2.17-beta",
+    "versionCode": 19,
+    "tag": "v0.2.17-beta",
+    "publishedAt": "2026-11-14",
+    "notes": "- מראה חדש בצבעי שני שבילין: המסכים כבר לא מקבלים את הצבעים מתמונת הרקע, וההגדרות מסודרות בכרטיסים.\n- אפשר לשנות את סיסמת ההסרה מתוך ההגדרות, עם הסיסמה הנוכחית.\n- תוקנה התקנת אפליקציות מהחנות ועדכון האפליקציה עצמה במולטימדיות ובמכשירים עם אנדרואיד 10, שבהם כל קובץ נדחה כ\"לא תקין\".\n- תוקנה קריסה במכשירים עם אנדרואיד 10 ומטה כשה-GPS נכבה או נדלק, שגרמה למכשיר להיתקע.\n- סימן המים כבר לא חוסם לחיצות על כפתורים שמתחתיו (אנדרואיד 12 ומעלה).",
     "certSha256": "99f0dae6561aa97c143f9fee4ae7abadf006bc2f268bc23165e850e8b108c539",
     "apks": {
       "arm64-v8a": {
         "path": "/apk/beta/ShaniShvilin-arm64-v8a.apk",
-        "sha256": "c70c78e122bf80399a0789448ad299906c64410abe87b06528b186d22b49205d",
-        "size": 25226788
+        "sha256": "48b0a667eb3961b6ccc7655fd7aa49d0632479617a3d6c2a146f7f704014d83b",
+        "size": 25226784
       },
       "armeabi-v7a": {
         "path": "/apk/beta/ShaniShvilin-armeabi-v7a.apk",
-        "sha256": "b7590c0ca5d1e477116fdd8e9c3667be830604a3c1ef7c9639ef748e4b89ff02",
-        "size": 24408290
+        "sha256": "7ac8c0a906f118f7f1d917b372d7af060f774903ebde5ec7f1b6d1869d3cbe10",
+        "size": 24408286
       }
     },
-    "universalUrl": "https://github.com/abaye123/shani-shvilin-releases/releases/download/v0.2.16-beta/ShaniShvilin-0.2.16-beta-universal.apk"
+    "universalUrl": "https://github.com/abaye123/shani-shvilin-releases/releases/download/v0.2.17-beta/ShaniShvilin-0.2.17-beta-universal.apk"
   }
 }
